@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Analysis Dashboard
+# 📊 Tata retail data visualization dashboard
 
 ## 🚀 Project Overview
 
